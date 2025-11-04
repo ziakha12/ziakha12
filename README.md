@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 
-**ziakha12/ziakha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-# Hey 👋 I'm Zia Khalid and I ❤️ Coding
+# Hey 👋 I'm Zia Khalid, and my love is Coding
 
 I'm a **Full Stack MERN Developer** from Pakistan, passionate about building scalable, fast, and user-focused web applications.  
 I love turning ideas into functional and beautiful digital products 🚀
@@ -15,15 +13,10 @@ I love turning ideas into functional and beautiful digital products 🚀
 
 **Languages:** JavaScript, TypeScript  
 **Frontend:** React, Next.js, Redux, Tailwind CSS, shadcn/ui  
-**Backend:** Node.js, Express.js, REST APIs, GraphQL  
-**Databases:** MongoDB, MySQL  
-**Tools & DevOps:** Git, GitHub, Docker, Vercel, AWS (EC2, S3, SES), Cloudflare  
+**Backend:** Node.js, Express.js, REST APIs, 
+**Databases:** MongoDB  
+**Tools & DevOps:** Git, GitHub, Docker, Vercel, 
 **Others:** HTML, CSS, Figma to Code, UI/UX Optimization, Web Performance
-
----
-
-🌐 **Portfolio:** [your-portfolio-link-here.com](https://your-portfolio-link-here.com)  
-🔗 **Profiles:** [LinkedIn](https://linkedin.com/in/yourprofile) · [Upwork](https://www.upwork.com)
 
 ---
 
