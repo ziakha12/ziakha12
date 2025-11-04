@@ -22,4 +22,12 @@ I love turning ideas into functional and beautiful digital products 🚀
 
 ---
 
---- ## 🧠 Skills **Languages:** JavaScript, TypeScript **Frontend:** React, Next.js, Redux, Tailwind CSS, shadcn/ui **Backend:** Node.js, Express.js, REST APIs, **Databases:** MongoDB **Tools & DevOps:** Git, GitHub, Docker, Vercel, **Others:** HTML, CSS, Figma to Code, UI/UX Optimization, Web Performance --- ⭐ _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
+--- ## 🧠 Skills
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, Next.js, Redux, Tailwind CSS, shadcn/ui 
+**Backend:** Node.js, Express.js, REST APIs,
+**Databases:** MongoDB 
+**Tools & DevOps:** Git, GitHub, Docker, Vercel,
+**Others:** HTML, CSS, Figma to Code, UI/UX Optimization, Web Performance 
+
+--- ⭐ _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
