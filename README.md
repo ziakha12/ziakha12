@@ -15,14 +15,14 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a **Full Stack MERN Developer** from Pakistan, passionate about building scalable, fast, and user-focused web applications.  
 I love turning ideas into functional and beautiful digital products 🚀
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 **Languages:** JavaScript, TypeScript  
 **Frontend:** React, Next.js, Redux, Tailwind CSS, shadcn/ui  
