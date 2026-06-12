@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=ZiaKhalid&label=Profile%20Views&color=0e75b6&style=flat" alt="zia khalid profile views" />
   <a href="https://github.com/ZiaKhalid?tab=followers">
     <img src="https://img.shields.io/github/followers/ZiaKhalid?label=Followers&style=social" alt="GitHub Followers" />
