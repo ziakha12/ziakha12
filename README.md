@@ -1,5 +1,5 @@
 <h1 align="start">Hey 👋 I'm Zia Khalid</h1>
-<h3 align="start">💻 Full Stack MERN Developer | ❤️ Coding | 🚀 Building Digital Experiences</h3>
+<h3 align="start">💻  MERN Stack Developer | ❤️ Coding | 🚀 Building Digital Experiences</h3>
 
 ---
 
